@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+.post {
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+.formatOfHeader {
+    height: 40px;
+    display: flex;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.formatOfImage img {
+    width: 400px;
+    height: 300px;
+}
+.icons {
+display: flex;
+padding-top: 20px;
+padding-left: 15px;
+padding-right: 15px;
+}
+.icons div {
+    width: 400px;
+}
+.footer {
+    padding: 10px;
+}
+.headerText {
+    width: 400px;
+    padding-bottom: 10px;
+    position: relative;
+    margin-top: -20px;
+}
+.threeDotsOfHeader {
+    padding-right: 10px;
+}
+.html5Icon {
+    padding-right: 10px;
+}
